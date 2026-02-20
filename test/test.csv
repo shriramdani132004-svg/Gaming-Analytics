@@ -1,1 +1,11 @@
-1,2,3,4
+Player_ID,Game_Mode,Level,Play_Time_Hours,Matches_Played,Wins,Losses,Kills,Deaths,Accuracy_Percent,In_Game_Purchases,Purchase_Amount_USD,Session_Length_Minutes,Retention_Days,Region
+P001,Battle_Royale,35,120,240,95,145,1800,1500,42.5,Yes,49.99,38,60,Asia
+P002,Multiplayer,22,75,180,70,110,900,980,38.2,No,0,30,45,Europe
+P003,Campaign,18,40,60,50,10,700,300,55.6,Yes,19.99,45,30,North America
+P004,Multiplayer,28,95,210,120,90,1400,1100,47.3,Yes,29.99,35,55,Asia
+P005,Battle_Royale,40,160,300,180,120,2600,1700,50.1,Yes,99.99,42,90,North America
+P006,Campaign,15,25,35,30,5,400,200,60.4,No,0,50,20,Europe
+P007,Multiplayer,31,110,260,130,130,1600,1550,41.8,Yes,59.99,37,70,Asia
+P008,Battle_Royale,27,88,190,85,105,1200,1150,39.9,No,0,33,48,South America
+P009,Campaign,20,55,75,65,10,850,420,58.7,Yes,14.99,48,35,Asia
+P010,Multiplayer,34,140,290,160,130,2100,1800,46.2,Yes,79.99,40,85,North America
